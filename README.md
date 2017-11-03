@@ -1,7 +1,5 @@
-
 # Kotlin 使用 Spring WebFlux 实现响应式编程
 
-> kotlin-with-webflux
 
 IBM的研究称，整个人类文明所获得的全部数据中，有90%是过去两年内产生的。在此背景下，包括NoSQL，Hadoop, Spark, Storm, Kylin在内的大批新技术应运而生。其中以RxJava和Reactor为代表的响应式（Reactive）编程技术针对的就是经典的大数据
 
@@ -520,16 +518,22 @@ Spring Web 是一个命令式的编程框架，可以很方便的进行开发和
 本章工程源代码：https://github.com/EasyKotlin/kotlin-with-webflux
 
 
+
+
 参考资料
 ===
 
+参考书籍：
+
+ 《 Kotlin +  Spring Boot ： K2EE 服务端开发实战 》
+
+ 《 Kotlin 极简教程》
+
+参考文章：
 Spring Framework 5.0 M5 Update ： https://spring.io/blog/2017/02/23/spring-framework-5-0-m5-update
 
 
 https://github.com/poutsma/web-function-sample
-
-
-
 
 
 
